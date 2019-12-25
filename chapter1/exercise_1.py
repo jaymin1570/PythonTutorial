@@ -1,0 +1,5 @@
+#print("**********print these following lines**********")
+print("this is \\\\ double backslash")
+print("there are /\\/\\/\\/\\/\\ mountain")
+print("he is \t awesome ")
+print("\\\" \\n \\t \\'")

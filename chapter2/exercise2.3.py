@@ -1,0 +1,2 @@
+name,char = input("enter your name and enter single charcter(separated by comma):").split(",")
+print(f"your name is : {name.strip()} AND count charcter is:{(name.lower()).count(char.lower().strip() )}")

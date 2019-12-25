@@ -1,0 +1,6 @@
+jaymin,20,jammu20@gmail.com,Male,PY_VAR4,Yes
+jaymin,20,jammu20@gmail.com,Male,PY_VAR4,Yes
+jaymin,20,jammu20@gmail.com,Male,student,Yes
+mahendra,24,mahi22@gmail.com,Male,student,Yes
+jammu,22,jaha34@jdk.com,Male,student,Yes
+cewiduh,22,xnwln@ccn.com,Male,student,Yes
